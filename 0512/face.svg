@@ -1,0 +1,32 @@
+<svg id="레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 592.81 675.66">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+        stroke: #231815;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 40px;
+      }
+
+      .cls-2 {
+        fill: #231815;
+      }
+
+      .cls-3 {
+        stroke-width: 30px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="296.4" cy="379.26" r="276.4"/>
+  <g>
+    <circle class="cls-2" cx="139.13" cy="379.26" r="28.6"/>
+    <circle class="cls-2" cx="453.68" cy="379.26" r="28.6"/>
+  </g>
+  <path class="cls-3" d="M434.69,503.13c-33.08,31-78.53,50.09-128.69,50.09s-95.61-19.12-128.69-50.09" transform="translate(-9.6 -16.74)"/>
+  <ellipse class="cls-2" cx="176.55" cy="174.64" rx="147.06" ry="105.19"/>
+  <ellipse class="cls-2" cx="427.97" cy="146.55" rx="131.56" ry="106.72"/>
+  <ellipse class="cls-2" cx="241.4" cy="70.98" rx="149.62" ry="70.98"/>
+</svg>
